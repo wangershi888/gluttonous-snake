@@ -1,2 +1,4 @@
 import './style/index.less'
-console.log(123)
+import GameControl from './modules/GameControl'
+
+let a = new GameControl()
